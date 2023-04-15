@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="conversao-moeda:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>conversao-moeda</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="conversao-moeda-1.0.war">
+      <element id="artifact" artifact-name="conversao-moeda:war exploded" />
+    </root>
+  </artifact>
+</component>
