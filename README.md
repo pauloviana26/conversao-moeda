@@ -15,12 +15,12 @@ Inicie o servidor Tomcat executando o comando catalina run na pasta bin do seu s
 Abra o navegador e digite a URL http://localhost:8080/conversor-moedas/ para acessar a página principal do conversor de moedas.
 
 ## Tecnologias utilizadas
-Java 17
-Java EE 8
-Apache Tomcat 10.1.7
-JSP
-HTML
-CSS
+- Java 17
+- Java EE 8
+- Apache Tomcat 10.1.7
+- JSP
+- HTML
+- CSS
 
 ## Componentes reutilizáveis
 ### footer.jsp
@@ -50,12 +50,12 @@ Start the Tomcat server by running the command "catalina run" in the bin folder 
 Open the browser and type the URL http://localhost:8080/conversor-moedas/ to access the main page of the currency converter.
 
 ## Technologies used
-Java 17
-Java EE 8
-Apache Tomcat 10.1.7
-JSP
-HTML
-CSS
+- Java 17
+- Java EE 8
+- Apache Tomcat 10.1.7
+- JSP
+- HTML
+- CSS
 
 ## Reusable components
 ### footer.jsp
